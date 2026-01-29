@@ -30,3 +30,19 @@ img {
    width: 200px;
    border: 2px solid grey;
 }
+.highlight {
+    background-color: lightyellow;
+    border: 2px solid darkgreen;
+    padding: 10px;
+}
+a {
+  color: blue;
+  text-decoration: none;
+}
+a:hover {
+    color: red;
+    text-decoration: underline;
+}
+li {
+   margin-bottom: 6px;
+}

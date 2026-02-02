@@ -46,3 +46,11 @@ a:hover {
 li {
    margin-bottom: 6px;
 }
+main {
+   margin: 20px auto;
+   width: 80%;
+}
+footer {
+   text-align:|centre;
+   margin-top: 20px;
+}

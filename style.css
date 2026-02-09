@@ -51,6 +51,23 @@ main {
    width: 80%;
 }
 footer {
-   text-align:|centre;
+   text-align:centre;
    margin-top: 20px;
+}
+.contact-bar {
+   display: flex;
+   justify-content: center; /* Centres links horizontally */
+   gap: 40px;               /* Adds space between the links*/
+   background-color: #1d5421;
+   padding: 15px;
+   border-radius: 8px;
+}
+.hero-container {
+   display: flex;
+   justify-content: center; /* Centres links horizontally*/
+   border-radius: 20px;
+}
+.first-child {
+   background-color: #d6c588;
+   font-weight: 600 ;
 }
